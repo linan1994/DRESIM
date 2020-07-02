@@ -6,7 +6,7 @@ See the User Manual file for the interface description, code explanation, and th
 
 The file SingleRepair allows one node repair at a time. The file SimultaneousRepair allows the repair of multiple nodes at the same time. 
 
-Yalmip(https://yalmip.github.io/) is required to run the files. 
+Yalmip (https://yalmip.github.io/) is required to run the files. Proper LP solvers such as Gurobi (https://www.gurobi.com/) are required. 
 
 Factored graph and variable elimination are applied to obtain the suboptimal decision for large-scale interdependent infrastructure network. 
 
