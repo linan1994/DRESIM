@@ -1,6 +1,8 @@
 # DRESIM
 Dynamic Resilient Infrastructure Simulation and Management
 
+A primitive demo for the cascading failure and resilient repair. 
+
 The file SingleRepair allows one node repair at a time. The file SimultaneousRepair allows the repair of multiple nodes at the same time. 
 
 Yalmip(https://yalmip.github.io/) is required to run the files. 
