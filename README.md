@@ -11,5 +11,6 @@ Yalmip (https://yalmip.github.io/) is required to run the files. Proper LP solve
 Factored graph and variable elimination are applied to obtain the suboptimal decision for large-scale interdependent infrastructure network. 
 
 References: 
-1. A Factored MDP Approach to Optimal Mechanism Design for Resilient Large-Scale Interdependent Critical Infrastructures
-2. DISTRIBUTED AND OPTIMAL RESILIENT PLANNING OF LARGE-SCALE INTERDEPENDENT CRITICAL INFRASTRUCTURES
+1. A Factored MDP Approach to Optimal Mechanism Design for Resilient Large-Scale Interdependent Critical Infrastructures (https://ieeexplore.ieee.org/document/8064531)
+2. DISTRIBUTED AND OPTIMAL RESILIENT PLANNING OF LARGE-SCALE INTERDEPENDENT CRITICAL INFRASTRUCTURES 
+(https://ieeexplore.ieee.org/abstract/document/8632399)
