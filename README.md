@@ -15,3 +15,4 @@ References:
 1. A Factored MDP Approach to Optimal Mechanism Design for Resilient Large-Scale Interdependent Critical Infrastructures (https://ieeexplore.ieee.org/document/8064531)
 2. DISTRIBUTED AND OPTIMAL RESILIENT PLANNING OF LARGE-SCALE INTERDEPENDENT CRITICAL INFRASTRUCTURES 
 (https://ieeexplore.ieee.org/abstract/document/8632399)
+![DRESIM Flyer for NSF](https://user-images.githubusercontent.com/17131592/156683182-9e828888-f77d-4416-b3b1-5aba0beb0819.jpg)
